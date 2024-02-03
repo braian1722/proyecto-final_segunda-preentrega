@@ -38,7 +38,7 @@ import { CursosComponent } from './pages/cursos/cursos.component';
       },
       {
         path: '**',
-        component: DashboardComponent,
+        component: HomeComponent,
       },
     ])
   ],
